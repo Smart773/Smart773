@@ -47,7 +47,7 @@
 ---
 
 ### 📊 GitHub Stats & Activity 🔥
-![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smart773&show_icons=true&theme=radical)
+![Smart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smart773&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
 
 ---
