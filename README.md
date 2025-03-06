@@ -1,6 +1,6 @@
 ## 🎮✨ Usama Waseem - Game Developer Extraordinaire ✨🎮
 
-![Banner](https://raw.githubusercontent.com/Usama-Waseem/Assets/main/github-banner.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=Game+Developer+%7C+Tech+Enthusiast;Passionate+about+Game+Development;Crafting+Immersive+Gaming+Worlds)](https://git.io/typing-svg)
 
 🚀 **Welcome to my world of game development!** I'm a **passionate game developer** who thrives on crafting unforgettable gaming experiences. Whether it's **2D pixel-perfect adventures** or **breathtaking 3D worlds**, I love pushing the limits of creativity and technology! 
 
@@ -40,18 +40,22 @@
 ---
 
 ### 📡 Connect with Me! 🌍
-🎮 [itch.io](https://usamawaseem.itch.io/) *(if available)*  
-📧 [usamawaseem.dev@gmail.com](mailto:your-email@example.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/usama-waseem-dev) *(if available)*  
+🎮 [itch.io](https://usamawaseem.itch.io/)  
+📧 [usamawaseem.dev@gmail.com](mailto:usamawaseem.dev@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/usama-waseem-dev)  
 
 ---
 
 ### 📊 GitHub Stats & Activity 🔥
-![Smart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smart773&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smart773&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smart773&layout=compact&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Smart773&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 🎬 **Fun Fact:** My dream is to create a game that players will cherish for years, just like the ones that shaped my love for gaming!  
 
 💡 _"Games are more than entertainment – they're an art form that bridges imagination and reality!"_ 🚀
+
+<img src="https://media.tenor.com/z6nEUPH4-IMAAAAd/game-controller.gif" width="100px">
