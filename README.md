@@ -40,9 +40,9 @@
 ---
 
 ### 📡 Connect with Me! 🌍
-🎮 [itch.io](https://usamawaseem.itch.io/)  
-📧 [usamawaseem.dev@gmail.com](mailto:usamawaseem.dev@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/usama-waseem-dev)  
+🎮 [itch.io](https://smart773.itch.io)  
+📧 [uusama.waseem.773@gmaill.com](mailto:uusama.waseem.773@gmaill.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/usama-waseem-6a9a74194/)  
 
 ---
 
